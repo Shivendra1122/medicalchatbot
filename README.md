@@ -77,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or feedback, feel free to reach out:
 
 - **GitHub**: [Shivendra1122](https://github.com/Shivendra1122)
-- **Email**: [Your Email Address Here]
+- **Email**: [Guptashivendra10@gmail.com]
 
 ---
 

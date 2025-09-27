@@ -64,9 +64,9 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push to your forked repository.
 4. Open a pull request to the main repository.
 
-## License
+## Screenshots
 
-This project is licensed under the [MIT License](LICENSE).
+This project have some screenshot of working.
 
 
 ![Screenshot 2025-04-29 013235](https://github.com/user-attachments/assets/b811e58b-3632-4c07-9a48-770909d0866c)
